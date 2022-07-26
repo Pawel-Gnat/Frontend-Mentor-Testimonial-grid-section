@@ -20,7 +20,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: [Frontend Mentor Testimonial grid section](xxx)
+- Live Site URL: [Frontend Mentor Testimonial grid section](https://pawel-gnat.github.io/Frontend-Mentor-Testimonial-grid-section/)
 
 ## My process
 
@@ -36,7 +36,7 @@ Easy task with no Java Script, so I pass writing my thinking process here.
 
 ### What I learned
 
-Task done in 3 hours. I tried to use semantic html5 tags like figure, blockquote and figcaption. Hope I did it properly. 
+Task done in 3 hours. I tried to use semantic html5 tags like figure, blockquote and figcaption. Hope I did it properly.
 
 ## Author
 
